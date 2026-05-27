@@ -1,3 +1,3 @@
 # SE-IOT
 
-# Davi e João
+# Davi e Miguel Prado
